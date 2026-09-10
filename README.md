@@ -1,6 +1,6 @@
 # 👥 Employee Management System
 
-A full-featured Employee Management System built with **ASP.NET Core MVC, using Entity Framework Core with ASP.NET Core Identity for authentication, custom policy-based authorization, and claims-based access control.
+A full-featured Employee Management System built with ASP.NET Core MVC, using Entity Framework Core with ASP.NET Core Identity for authentication, custom policy-based authorization, and claims-based access control.
 
 ## 🚀 Tech Stack
 
